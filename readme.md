@@ -3,9 +3,9 @@
 
 <br>
 
-<h3 align="center">Getting experienced by exploring, practice and taking responsibility of working project.</h3>
+<h3 align="center">Getting experience through exploring, practice and working on some projects.</h3>
 <br>
-<h2 align="center">Persuing Diploma Eng. in IT.</h2>
+<h2 align="center">Pursuing Diploma Eng. in IT.</h2>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
