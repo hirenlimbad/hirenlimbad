@@ -5,7 +5,6 @@
 
 <h3 align="center">Getting experience through exploring, practice and working on some projects.</h3>
 <br>
-<h2 align="center">Pursuing Diploma Eng. in IT.</h2>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
